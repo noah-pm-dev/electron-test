@@ -1,0 +1,16 @@
+{
+  "name": "electron-test",
+  "productName": "Test Electron App",
+  "version": "0.0.1",
+  "description": "test electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^26.1.0",
+    "three": "^0.155.0"
+  }
+}
